@@ -1,0 +1,1 @@
+ALTER TABLE `sessions` ADD `stage` integer DEFAULT 1 NOT NULL;

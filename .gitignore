@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.dev.vars.example
+*.pem
+*.tsbuildinfo
+coverage/
+outputs/
+.openai/
+pnpm-debug.log*
+npm-debug.log*
+.DS_Store
